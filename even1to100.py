@@ -1,2 +1,5 @@
-for i in range(2,101,2):
-    print(i,end=' ')
+a=2
+while a<=100:
+    print(a,end=' ')
+    a=a+2
+    
